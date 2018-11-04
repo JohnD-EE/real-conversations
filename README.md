@@ -160,3 +160,5 @@ App for curated conversations, getting deeper than everyday chit-chat
 * What will you strive to achieve when you retire from work?
 * What is the best idea yo've ever had?
 * What do you dread the most?
+* What particular kind of suffering can you bear better than most other people?
+

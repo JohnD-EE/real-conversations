@@ -171,7 +171,7 @@ As part of this project, I would like to turn up in high streets or business are
 * Think of one privilige you have which you take for granted?
 * What's the one thing you'd like to talk about, but are rarely given the opportunity?
 * What will you strive to achieve when you retire from work?
-* What is the best idea yo've ever had?
+* What is the best idea you've ever had?
 * What do you dread the most?
 * What particular kind of suffering can you bear better than most other people?
 * What is the main thing which drives your behaviour?

@@ -1,6 +1,19 @@
 # real-conversations
 App for curated conversations, getting deeper than everyday chit-chat
 
+## What is it?
+This will be an app which will provide prompts for more deeper, more meaningful conversations.  The topics will be provacative and encourage people to reveal their vulnerabilities. The process of being a little uncomfortable, and seeking honest answers, will create opportunities for greater intimacy and a feeling of connectedness. As humans, there is a universality to our problems and struggles, and the process of authentic sharing of our thoughts should bring us closer together...
+
+The App will offer random topics of conversations, and offer helpful prompts if people are struggling to answer.
+
+## Real Conversations in Real Life
+As part of this project, I would like to turn up in high streets or business areas with a couple of chairs. I'll sit in one chair and invite passers by to sit in the other as we use the app to create a random conversation. These real conversations can be recorded and broadcast in social media platforms.  If this works well it could create a unique format to take to more established personalities.
+
+## Why do this?
+2018 has been a year of introspection and careful reflection for me.
+
+
+
 
 ### List of Question Ideas
 * What are you most excited about right now...?

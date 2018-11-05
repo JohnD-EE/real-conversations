@@ -175,3 +175,4 @@ As part of this project, I would like to turn up in high streets or business are
 * What do you dread the most?
 * What particular kind of suffering can you bear better than most other people?
 * What is the main thing which drives your behaviour?
+* Which idea has changed your life the most?

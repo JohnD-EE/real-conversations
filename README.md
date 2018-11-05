@@ -177,3 +177,4 @@ As part of this project, I would like to turn up in high streets or business are
 * What is the main thing which drives your behaviour?
 * Which idea has changed your life the most?
 * In which ways do you judge yourself more harshly than you judge others?
+* What changes are you working on now to give yourself a better future?

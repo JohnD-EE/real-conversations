@@ -58,7 +58,7 @@ As part of this project, I would like to turn up in high streets or business are
 * How often do you agree with someone's perspective, just to avoid confrontation?
 * How would you survive and thrive in a post-apocalyptic world?
 * When did you last go against the crowd to stand up for your views?
-* Have you ever had a spiritual experience?
+* How would you descibe your most 'spiritual' eperience?
 * What is the most elated you have ever felt?
 * Have you ever contemplated suicide?
 * What would you do differently if you could start your adult life again?

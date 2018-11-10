@@ -179,3 +179,5 @@ As part of this project, I would like to turn up in high streets or business are
 * In which ways do you judge yourself more harshly than you judge others?
 * What changes are you working on now to give yourself a better future?
 * How does it feel when you find yourself saying what people want to hear, rather than what you actually think?
+* How susceptable are you to the emotions of other people?
+* How accurate is your own self image?

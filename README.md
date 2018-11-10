@@ -181,3 +181,4 @@ As part of this project, I would like to turn up in high streets or business are
 * How does it feel when you find yourself saying what people want to hear, rather than what you actually think?
 * How susceptable are you to the emotions of other people?
 * How accurate is your own self image?
+* Do you ever feel slightly pleased, when hearing of bad things happenning to others?

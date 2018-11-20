@@ -183,4 +183,4 @@ As part of this project, I would like to turn up in high streets or business are
 * How accurate is your own self image?
 * Do you ever feel slightly pleased, when hearing of bad things happenning to others?
 * Amor Fati. In which ways have you learned to love your fate, how to appreciate the bad things that have happenned to you?
-* When were you at your prime, or do you hope it is still ahead of you?
+* When were you at your prime, or do you think it is still ahead of you?

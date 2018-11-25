@@ -186,3 +186,4 @@ As part of this project, I would like to turn up in high streets or business are
 * When were you at your prime, or do you think it is still ahead of you?
 * How do you add value to the people around you?
 * Who’s life can you change today?
+* Would your teenage self be proud, or embarrassed, by who you've become?

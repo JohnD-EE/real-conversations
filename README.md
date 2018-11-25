@@ -188,3 +188,4 @@ As part of this project, I would like to turn up in high streets or business are
 * Who’s life can you change today?
 * Would your 80-year-old self be proud, or embarrassed, by who you are now?
 * Would your teenage self be proud, or embarrassed, by who you've become?
+* How have you made a positive impact on someone’s attitude today?

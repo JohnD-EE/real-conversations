@@ -152,7 +152,7 @@ As part of this project, I would like to turn up in high streets or business are
 * Is it always right to obey authority?
 * How do you know your views and opinions are correct?
 * What would you do if you could live a whole day without consequences?
-* Is there anything which sends tingles down your spine?
+* Is there anything that sends tingles down your spine?
 * What is the one time when your 9 to 5 job felt most real to you and your values?
 * What is the most important thing you've learnt in life?
 * What or who inspires you the most?

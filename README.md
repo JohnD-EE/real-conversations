@@ -190,3 +190,4 @@ As part of this project, I would like to turn up in high streets or business are
 * Would your teenage self be proud, or embarrassed, by who you've become?
 * How have you made a positive impact on someone’s attitude today?
 * Does your brain generate consciousness, or does it come from somewhere else?
+* When did you last spend a whole day without using your phone?

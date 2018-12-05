@@ -191,3 +191,4 @@ As part of this project, I would like to turn up in high streets or business are
 * How have you made a positive impact on someone’s attitude today?
 * Does your brain generate consciousness, or does it come from somewhere else?
 * When did you last spend a whole day without using your phone?
+* If everything we do is driven by or attempts to fill holes in our lives, what holes are you trying to fill?

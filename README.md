@@ -192,3 +192,4 @@ As part of this project, I would like to turn up in high streets or business are
 * Does your brain generate consciousness, or does it come from somewhere else?
 * When did you last spend a whole day without using your phone?
 * If everything we do is driven by or attempts to fill holes in our lives, what holes are you trying to fill?
+* If you knew that you couldn't fail, what would you be doing with your time?

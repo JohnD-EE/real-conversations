@@ -196,3 +196,4 @@ As part of this project, I would like to turn up in high streets or business are
 * What are the last few books you have read?
 * When was your last adventure?
 * What Are You Unwilling to Feel?
+* What are you so attached to that you can't let go of?

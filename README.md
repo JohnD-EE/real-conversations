@@ -197,3 +197,4 @@ As part of this project, I would like to turn up in high streets or business are
 * When was your last adventure?
 * What Are You Unwilling to Feel?
 * What are you so attached to that you can't let go of?
+* What impact would you like to have on the world?

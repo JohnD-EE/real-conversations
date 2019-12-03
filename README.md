@@ -75,6 +75,7 @@ As part of this project, I would like to turn up in high streets or business are
 * What's the kindest thing you can do for yourself when you're in emotional pain?
 * When did you last cry?
 * When did you last make someone cry?
+* If you knew success was a certainty, what would you attempt to do?
 * How have you made the world a better place?
 * What difficulties did you overcome to get to where you are today?
 * Should you treat people as they treat you, your treat them better?

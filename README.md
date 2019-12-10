@@ -199,3 +199,4 @@ As part of this project, I would like to turn up in high streets or business are
 * What Are You Unwilling to Feel?
 * What are you so attached to that you can't let go of?
 * What impact would you like to have on the world?
+* If there was a potion which could permanently relieve all of your suffering, would you take it?

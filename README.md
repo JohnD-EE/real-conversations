@@ -16,6 +16,7 @@ As part of this project, I would like to turn up in high streets or business are
 
 
 ### List of Question Ideas
+* If you could live forever or die right now, which would you choose?
 * What are you most excited about right now...?
 * What has been the biggest challenge in your life?
 * What's your favourite topic to talk about?

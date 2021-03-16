@@ -121,6 +121,7 @@ As part of this project, I would like to turn up in high streets or business are
 * Necesity is the mother of invention. What necessities are there in the world now which need an invention?
 * What one skill/ability have you worked on the most?
 * Are you more interested in things or in people?
+* What are the unmet needs from your childhood?
 * How prone are you to self sabotage?
 * What is the closest you've ever been to death?
 * Should governments protect people from themselves, or should people do what they ike as long as no harm is caused to others?

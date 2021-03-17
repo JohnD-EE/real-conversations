@@ -22,6 +22,7 @@ As part of this project, I would like to turn up in high streets or business are
 * What's your favourite topic to talk about?
 * What makes you different from other people?
 * What is the shadow side of your personality?  What's your dark side?
+* If you are not growing, you're dying. In which ways are you growing?
 * What's the thing your proud of that most people don't know about?
 * What's a question you wish more people would ask you?
 * How did you arrive to where you are now?  What decisions did you make?
@@ -117,6 +118,7 @@ As part of this project, I would like to turn up in high streets or business are
 * Why do you do this every day?
 * How much do you care about other people's opinion of you?
 * Are you actually happy?
+* Socrates said "The unexamined life is not worth living". How do you examine your life?
 * How do you handle adversity?
 * Necesity is the mother of invention. What necessities are there in the world now which need an invention?
 * What one skill/ability have you worked on the most?

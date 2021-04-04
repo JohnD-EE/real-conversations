@@ -161,6 +161,7 @@ As part of this project, I would like to turn up in high streets or business are
 * What is the one time when your 9 to 5 job felt most real to you and your values?
 * What is the most important thing you've learnt in life?
 * What or who inspires you the most?
+* If you were given a £100 Million, how would you spend it?
 * If people could do more to accomodate you and your quirks, what would they do?
 * If you could re-live one day in your life, what day would you chose?
 * Do you feel that you may have aready had the best day of your life?
@@ -207,3 +208,4 @@ As part of this project, I would like to turn up in high streets or business are
 * What would you do if you were made a ruthless depot for a day?
 * What is the most controversial opinion you hold?
 * What is the ultimate fate of humankind, are we headed for utopia or dystopia?
+* If you we're offered the gift of prophecy, but also cursed with no-one ever believing your predictions, whould you accept it? (Cassandra Complex)

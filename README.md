@@ -10,8 +10,8 @@ The App will offer random topics of conversations, and offer helpful prompts if 
 As part of this project, I would like to turn up in high streets or business areas with a couple of chairs. I'll sit in one chair and invite passers by to sit in the other as we use the app to create a random conversation. These real conversations can be recorded and broadcast in social media platforms.  If this works well it could create a unique format to take to more established personalities.
 
 ## Why do this?
-2018 has been a year of introspection and careful reflection for me.
-
+* 2018 has been a year of introspection and careful reflection for me.
+* Hyperpartisan conflict
 
 
 

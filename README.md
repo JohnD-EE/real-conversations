@@ -148,7 +148,7 @@ As part of this project, I would like to turn up in high streets or business are
 * Can you see yourself as others see you?
 * How much time are you being your authentic self, compared to being other people's expectations?
 * Do you have any relationships you'd rather finish, but carry on with out of kindness?
-* How easy is it fir you to say 'no' to people?
+* How easy is it for you to say 'no' to people?
 * How do you try to understand other people's perspectives and opinions?
 * Do you listen to other people, even if you disagree?
 * Why do we exist?
@@ -205,7 +205,7 @@ As part of this project, I would like to turn up in high streets or business are
 * What are you so attached to that you can't let go of?
 * What impact would you like to have on the world?
 * If there was a potion which could permanently relieve all of your suffering, would you take it?
-* What would you do if you were made a ruthless depot for a day?
+* What would you do if you were made a ruthless despot for a day?
 * What is the most controversial opinion you hold?
 * What is the ultimate fate of humankind, are we headed for utopia or dystopia?
 * If you we're offered the gift of prophecy, but also cursed with no-one ever believing your predictions, whould you accept it? (Cassandra Complex)
